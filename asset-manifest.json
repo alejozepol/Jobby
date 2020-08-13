@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/alejozepol/Jobbystatic/css/main.ca4e3155.chunk.css",
+    "main.js": "/alejozepol/Jobbystatic/js/main.c740f0e4.chunk.js",
+    "main.js.map": "/alejozepol/Jobbystatic/js/main.c740f0e4.chunk.js.map",
+    "runtime-main.js": "/alejozepol/Jobbystatic/js/runtime-main.6427c8b2.js",
+    "runtime-main.js.map": "/alejozepol/Jobbystatic/js/runtime-main.6427c8b2.js.map",
+    "static/js/2.d00b3d6a.chunk.js": "/alejozepol/Jobbystatic/js/2.d00b3d6a.chunk.js",
+    "static/js/2.d00b3d6a.chunk.js.map": "/alejozepol/Jobbystatic/js/2.d00b3d6a.chunk.js.map",
+    "index.html": "/alejozepol/Jobbyindex.html",
+    "precache-manifest.8a7aa74fe8c7afc304abc161b23839c4.js": "/alejozepol/Jobbyprecache-manifest.8a7aa74fe8c7afc304abc161b23839c4.js",
+    "service-worker.js": "/alejozepol/Jobbyservice-worker.js",
+    "static/css/main.ca4e3155.chunk.css.map": "/alejozepol/Jobbystatic/css/main.ca4e3155.chunk.css.map",
+    "static/js/2.d00b3d6a.chunk.js.LICENSE.txt": "/alejozepol/Jobbystatic/js/2.d00b3d6a.chunk.js.LICENSE.txt",
+    "static/media/building.svg": "/alejozepol/Jobbystatic/media/building.33a6982a.svg",
+    "static/media/location.svg": "/alejozepol/Jobbystatic/media/location.2bf72ac7.svg",
+    "static/media/money.svg": "/alejozepol/Jobbystatic/media/money.20146c48.svg",
+    "static/media/target.svg": "/alejozepol/Jobbystatic/media/target.1a2aba9e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6427c8b2.js",
+    "static/js/2.d00b3d6a.chunk.js",
+    "static/css/main.ca4e3155.chunk.css",
+    "static/js/main.c740f0e4.chunk.js"
+  ]
+}
